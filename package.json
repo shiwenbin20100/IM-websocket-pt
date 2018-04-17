@@ -31,8 +31,10 @@
   "dependencies": {
     "@types/react": "^16.3.10",
     "@types/react-dom": "^16.0.5",
+    "express": "^4.16.3",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
+    "socket.io": "^2.1.0",
     "sockette": "^2.0.0"
   }
 }
